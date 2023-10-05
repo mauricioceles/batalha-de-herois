@@ -3,7 +3,6 @@ class Heroi {
         this.nome
         this.idade
         this.tipo
-
     }
 
     atacar(tipo) {
